@@ -1,0 +1,4 @@
+Week 01 task :
+Learn how to clone, push, pull, create a empty file, and edit file using PuTTY and github
+
+#Nurhaya_Kushadi
