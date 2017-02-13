@@ -1,0 +1,4 @@
+Week00 task :
+Create a Google Account and Github new account, create a new repository on Github, fill the form, and login to badak.cs.ui.ac.id
+
+#Nurhaya_Kushadi
