@@ -1,0 +1,12 @@
+Point 1 : Local and Global Variables
+a. File pertama men-state variabel di luar program utama, sedangkan file kedua men-state variabel di dalam program utama, sehingga output yang dihasilkan berbeda
+b.
+c. Local variable adalah variabel yang hanya dapat diakses oleh method yang sama, sedangkan global variable adalah variabel yang dapat diakses oleh method lain
+
+Point 2 : I/O Open-Close
+a. O_CREAT (membuat file jika file yang dimaksud tidak ada), O_RDWR (File dapat ditulis atau dibaca)
+b. S_IRWXU (User dapat membaca, menulis, dan mengeksekusi file), S_IRGRP (Group dapat membaca file), S_IWGRP (Group dapat menulis file), S_IROTH (Other dapat membaca file), S_IXGRP (Group dapat mengeksekusi file), S_IXOTH (Other bisa mengeksekusi file)
+c. Open-close I/O berguna untuk membuat file baru di dalam folder dan menentukan tipe file tersebut. Sedangkan close berguna untuk menghapus deskriptor file
+
+Point 3 : I/O Write
+Write merupakan operasi untuk menuliskan output ke file tanpa membuka file tersebut. 
